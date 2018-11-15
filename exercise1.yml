@@ -4,6 +4,6 @@ navbar:
   title: "My Website"
   left:
     - text: "Home"
-      href: exercise1.html
+      href: index.html
     - text: "Second Page"
       href: second_page.html
