@@ -9,6 +9,6 @@ navbar:
   title: "My Website"
   left:
     - text: "Home"
-      href: index.html
+      href: exercise1.nb.html
     - text: "Second Page"
       href: second_page.html
